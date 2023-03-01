@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TratarException", "TratarException\TratarException.csproj", "{479D64BF-FF57-4397-9205-97A0077A7B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{479D64BF-FF57-4397-9205-97A0077A7B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479D64BF-FF57-4397-9205-97A0077A7B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479D64BF-FF57-4397-9205-97A0077A7B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479D64BF-FF57-4397-9205-97A0077A7B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2BBB5FF-B432-439B-A928-18E9611B765A}
+	EndGlobalSection
+EndGlobal

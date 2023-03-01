@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>1.0.3</Version>
+    <Title>TratarException</Title>
+    <PackageId>TratarException</PackageId>
+    <Authors>Yago Almeida</Authors>
+    <Company />
+    <Product />
+    <Description>Versão experimental de teste. Com correções aplicadas em namespace e instruções de métodos.</Description>
+    <NeutralLanguage>pt</NeutralLanguage>
+    <PackageReleaseNotes>Versão com correções que não podem faltar.</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
